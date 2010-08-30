@@ -1,0 +1,99 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/d:Data/f:FileZilla.dcupdate" caret="0" fromTop="0" />
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/d:Data/f:versioninfo.xml" caret="0" fromTop="0" />
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/f:app.config" caret="0" fromTop="0" />
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/f:Settings.cs" caret="19" fromTop="0" />
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/d:Lists and actions/f:FileZillaSite.cs" caret="2621" fromTop="11" />
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/f:FileZilla.cs" caret="127" fromTop="5" />
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/d:Lists and actions/f:FileZillaAction.cs" caret="765" fromTop="15" />
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/d:Lists and actions/f:FileZillaList.cs" caret="400" fromTop="15" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/f:FileZilla.cs" caret="1231" fromTop="19" />
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/f:Settings.cs" caret="0" fromTop="0" />
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/d:Lists and actions/f:FileZillaSite.cs" caret="2641" fromTop="26" />
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/d:Lists and actions/f:FileZillaAction.cs" caret="457" fromTop="14" />
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/d:Lists and actions/f:FileZillaAction.cs" caret="609" fromTop="18" />
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/f:FileZilla.cs" caret="128" fromTop="5" />
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/d:Lists and actions/f:FileZillaAction.cs" caret="1346" fromTop="41" />
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/d:Lists and actions/f:FileZillaList.cs" caret="401" fromTop="15" />
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/d:Lists and actions/f:FileZillaAction.cs" caret="280" fromTop="10" />
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/d:Lists and actions/f:FileZillaAction.cs" caret="1166" fromTop="38" />
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/d:Lists and actions/f:FileZillaAction.cs" caret="1466" fromTop="36" />
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/d:Lists and actions/f:FileZillaAction.cs" caret="766" fromTop="15" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Properties" priority="2" />
+      <Item value="Settings" priority="0" />
+      <Item value="Default" priority="0" />
+      <Item value="FileZillaSite`0" priority="1" />
+      <Item value="Settings`0" priority="0" />
+      <Item value="readonly" priority="0" />
+      <Item value="this" priority="0" />
+      <Item value="site" priority="0" />
+      <Item value="try" priority="0" />
+      <Item value="Environment`0" priority="0" />
+      <Item value="FileZilla" priority="2" />
+      <Item value="FARRTunes" priority="0" />
+      <Item value="FileZilla`0" priority="1" />
+      <Item value="string" priority="1" />
+      <Item value="m_site" priority="2" />
+      <Item value="args" priority="0" />
+      <Item value="public" priority="0" />
+      <Item value="catch" priority="0" />
+      <Item value="Exception`0" priority="0" />
+      <Item value="ex" priority="0" />
+      <Item value="using" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FileZilla.Properties.Settings">
+      <Item value="Default" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FileZilla.Properties.Settings">
+      <Item value="SiteMgr_Path" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FARRTunes.Actions.FileZillaAction">
+      <Item value="site" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Process">
+      <Item value="Start`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment">
+      <Item value="ExpandEnvironmentVariables`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LaunchyZilla.FileZillaSite">
+      <Item value="Name" priority="2" />
+      <Item value="Url" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

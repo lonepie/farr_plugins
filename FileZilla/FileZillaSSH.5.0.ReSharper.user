@@ -1,0 +1,58 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Icon`0" priority="0" />
+      <Item value="GetFilePluginPath`0" priority="0" />
+      <Item value="private" priority="0" />
+      <Item value="m_caption" priority="0" />
+      <Item value="m_site" priority="0" />
+      <Item value="FileZilla" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LaunchyZilla.FileZillaSite">
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/f:FileZilla.cs" caret="710" fromTop="11" />
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/d:Lists and actions/f:FileZillaSite.cs" caret="3749" fromTop="9" />
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/d:Lists and actions/f:FileZillaList.cs" caret="118" fromTop="4" />
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/d:Lists and actions/f:FileZillaAction.cs" caret="495" fromTop="18" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/d:Lists and actions/f:FileZillaAction.cs" caret="677" fromTop="24" />
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/d:Lists and actions/f:FileZillaAction.cs" caret="327" fromTop="10" />
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/d:Lists and actions/f:FileZillaAction.cs" caret="1170" fromTop="36" />
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/d:Lists and actions/f:FileZillaAction.cs" caret="262" fromTop="8" />
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/d:Lists and actions/f:FileZillaAction.cs" caret="589" fromTop="19" />
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/d:Lists and actions/f:FileZillaSite.cs" caret="142" fromTop="4" />
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/d:Lists and actions/f:FileZillaAction.cs" caret="88" fromTop="2" />
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/d:Lists and actions/f:FileZillaList.cs" caret="74" fromTop="1" />
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/d:Lists and actions/f:FileZillaList.cs" caret="280" fromTop="10" />
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/d:Lists and actions/f:FileZillaList.cs" caret="487" fromTop="15" />
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/f:FileZilla.cs" caret="58" fromTop="0" />
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/f:FileZilla.cs" caret="1325" fromTop="23" />
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/d:Lists and actions/f:FileZillaSite.cs" caret="2631" fromTop="9" />
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/d:Lists and actions/f:FileZillaSite.cs" caret="1293" fromTop="9" />
+      <File id="37FBBC27-A056-4621-A21F-D66CD0CA78DC/d:Lists and actions/f:FileZillaSite.cs" caret="3749" fromTop="9" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
